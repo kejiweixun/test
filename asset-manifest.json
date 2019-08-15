@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test/static/css/main.f55cc74d.chunk.css",
-    "main.js": "/test/static/js/main.b60c7db1.chunk.js",
-    "main.js.map": "/test/static/js/main.b60c7db1.chunk.js.map",
-    "runtime~main.js": "/test/static/js/runtime~main.e9694af8.js",
-    "runtime~main.js.map": "/test/static/js/runtime~main.e9694af8.js.map",
-    "static/js/2.45c7f5c3.chunk.js": "/test/static/js/2.45c7f5c3.chunk.js",
-    "static/js/2.45c7f5c3.chunk.js.map": "/test/static/js/2.45c7f5c3.chunk.js.map",
-    "index.html": "/test/index.html",
-    "precache-manifest.1fa3f14d683235dcd24bc7c45437e23f.js": "/test/precache-manifest.1fa3f14d683235dcd24bc7c45437e23f.js",
-    "service-worker.js": "/test/service-worker.js",
-    "static/css/main.f55cc74d.chunk.css.map": "/test/static/css/main.f55cc74d.chunk.css.map",
-    "static/media/banner.png": "/test/static/media/banner.88724b30.png",
-    "static/media/figma.svg": "/test/static/media/figma.8e1c6c38.svg",
-    "static/media/plugin.png": "/test/static/media/plugin.35135295.png"
+    "main.css": "/1st-learning-project/static/css/main.f55cc74d.chunk.css",
+    "main.js": "/1st-learning-project/static/js/main.1a02e1db.chunk.js",
+    "main.js.map": "/1st-learning-project/static/js/main.1a02e1db.chunk.js.map",
+    "runtime~main.js": "/1st-learning-project/static/js/runtime~main.8792cd76.js",
+    "runtime~main.js.map": "/1st-learning-project/static/js/runtime~main.8792cd76.js.map",
+    "static/js/2.fd6cc176.chunk.js": "/1st-learning-project/static/js/2.fd6cc176.chunk.js",
+    "static/js/2.fd6cc176.chunk.js.map": "/1st-learning-project/static/js/2.fd6cc176.chunk.js.map",
+    "index.html": "/1st-learning-project/index.html",
+    "precache-manifest.554f76f6305dfd53ad1f765ade6e9a7b.js": "/1st-learning-project/precache-manifest.554f76f6305dfd53ad1f765ade6e9a7b.js",
+    "service-worker.js": "/1st-learning-project/service-worker.js",
+    "static/css/main.f55cc74d.chunk.css.map": "/1st-learning-project/static/css/main.f55cc74d.chunk.css.map",
+    "static/media/banner.png": "/1st-learning-project/static/media/banner.d99f0a51.png",
+    "static/media/figma.svg": "/1st-learning-project/static/media/figma.8e1c6c38.svg",
+    "static/media/plugin.png": "/1st-learning-project/static/media/plugin.35135295.png"
   }
 }
