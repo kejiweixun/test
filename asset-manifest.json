@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test/project1/static/css/main.f55cc74d.chunk.css",
-    "main.js": "/test/project1/static/js/main.d462c26f.chunk.js",
-    "main.js.map": "/test/project1/static/js/main.d462c26f.chunk.js.map",
-    "runtime~main.js": "/test/project1/static/js/runtime~main.93968487.js",
-    "runtime~main.js.map": "/test/project1/static/js/runtime~main.93968487.js.map",
-    "static/js/2.2648cd9d.chunk.js": "/test/project1/static/js/2.2648cd9d.chunk.js",
-    "static/js/2.2648cd9d.chunk.js.map": "/test/project1/static/js/2.2648cd9d.chunk.js.map",
-    "index.html": "/test/project1/index.html",
-    "precache-manifest.bef1f3e7867eb3e1711faf335dac30a8.js": "/test/project1/precache-manifest.bef1f3e7867eb3e1711faf335dac30a8.js",
-    "service-worker.js": "/test/project1/service-worker.js",
-    "static/css/main.f55cc74d.chunk.css.map": "/test/project1/static/css/main.f55cc74d.chunk.css.map",
-    "static/media/banner.png": "/test/project1/static/media/banner.88724b30.png",
-    "static/media/figma.svg": "/test/project1/static/media/figma.8e1c6c38.svg",
-    "static/media/plugin.png": "/test/project1/static/media/plugin.35135295.png"
+    "main.css": "/test/static/css/main.f55cc74d.chunk.css",
+    "main.js": "/test/static/js/main.1a7db27e.chunk.js",
+    "main.js.map": "/test/static/js/main.1a7db27e.chunk.js.map",
+    "runtime~main.js": "/test/static/js/runtime~main.e9694af8.js",
+    "runtime~main.js.map": "/test/static/js/runtime~main.e9694af8.js.map",
+    "static/js/2.45c7f5c3.chunk.js": "/test/static/js/2.45c7f5c3.chunk.js",
+    "static/js/2.45c7f5c3.chunk.js.map": "/test/static/js/2.45c7f5c3.chunk.js.map",
+    "index.html": "/test/index.html",
+    "precache-manifest.30d2a95008f130838624a8184c3a50ec.js": "/test/precache-manifest.30d2a95008f130838624a8184c3a50ec.js",
+    "service-worker.js": "/test/service-worker.js",
+    "static/css/main.f55cc74d.chunk.css.map": "/test/static/css/main.f55cc74d.chunk.css.map",
+    "static/media/banner.png": "/test/static/media/banner.88724b30.png",
+    "static/media/figma.svg": "/test/static/media/figma.8e1c6c38.svg",
+    "static/media/plugin.png": "/test/static/media/plugin.35135295.png"
   }
 }
