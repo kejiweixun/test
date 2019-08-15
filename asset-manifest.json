@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.f55cc74d.chunk.css",
-    "main.js": "/my-app/static/js/main.ca7e4d90.chunk.js",
-    "main.js.map": "/my-app/static/js/main.ca7e4d90.chunk.js.map",
-    "runtime~main.js": "/my-app/static/js/runtime~main.21a9b63e.js",
-    "runtime~main.js.map": "/my-app/static/js/runtime~main.21a9b63e.js.map",
-    "static/js/2.a5d5b8eb.chunk.js": "/my-app/static/js/2.a5d5b8eb.chunk.js",
-    "static/js/2.a5d5b8eb.chunk.js.map": "/my-app/static/js/2.a5d5b8eb.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.49cd7b5eac648076cf9194908aa91f1f.js": "/my-app/precache-manifest.49cd7b5eac648076cf9194908aa91f1f.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.f55cc74d.chunk.css.map": "/my-app/static/css/main.f55cc74d.chunk.css.map",
-    "static/media/banner.png": "/my-app/static/media/banner.88724b30.png",
-    "static/media/figma.svg": "/my-app/static/media/figma.8e1c6c38.svg",
-    "static/media/plugin.png": "/my-app/static/media/plugin.35135295.png"
+    "main.css": "/test/static/css/main.f55cc74d.chunk.css",
+    "main.js": "/test/static/js/main.b60c7db1.chunk.js",
+    "main.js.map": "/test/static/js/main.b60c7db1.chunk.js.map",
+    "runtime~main.js": "/test/static/js/runtime~main.e9694af8.js",
+    "runtime~main.js.map": "/test/static/js/runtime~main.e9694af8.js.map",
+    "static/js/2.45c7f5c3.chunk.js": "/test/static/js/2.45c7f5c3.chunk.js",
+    "static/js/2.45c7f5c3.chunk.js.map": "/test/static/js/2.45c7f5c3.chunk.js.map",
+    "index.html": "/test/index.html",
+    "precache-manifest.1fa3f14d683235dcd24bc7c45437e23f.js": "/test/precache-manifest.1fa3f14d683235dcd24bc7c45437e23f.js",
+    "service-worker.js": "/test/service-worker.js",
+    "static/css/main.f55cc74d.chunk.css.map": "/test/static/css/main.f55cc74d.chunk.css.map",
+    "static/media/banner.png": "/test/static/media/banner.88724b30.png",
+    "static/media/figma.svg": "/test/static/media/figma.8e1c6c38.svg",
+    "static/media/plugin.png": "/test/static/media/plugin.35135295.png"
   }
 }
