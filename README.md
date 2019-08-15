@@ -14,4 +14,4 @@
   
 第二个页面用了 grid 布局, 如果 grid 的 column 数量自动变化, 可以通过 `grid-column: 1 / -1` 让元素总是占据整行. 为了实现 responsive 自适应的效果, 反复调整了 grid\flex 相关的规则. 不过在手机看效果依然不太好, 要实现一模一样的效果应该需要用到一些我还没有学过的知识, 所以这是我下一步需要了解的内容.
 
-按照 create-react-app 的文档把这个学习项目部署到了[腾讯云](https://project.kejiweixun/project1)和 GitHub Pages(https://kejiweixun.github.io/1st-learning-project), 在腾讯云用 Node 搭建了一个只有几项代码的 web server, 只是传输一下静态文件而已, 部署需要注意在项目的 package.json 文件设置 homepage 入口, 这个入口和上面提到的 basename 呼应.
+按照 create-react-app 的文档把这个学习项目部署到了[腾讯云](https://project.kejiweixun/project1)和 [GitHub Pages](https://kejiweixun.github.io/1st-learning-project), 在腾讯云用 Node 搭建了一个只有几项代码的 web server, 只是传输一下静态文件而已, 部署需要注意在项目的 package.json 文件设置 homepage 入口, 这个入口和上面提到的 basename 呼应.
