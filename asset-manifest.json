@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.f55cc74d.chunk.css",
+    "main.js": "/my-app/static/js/main.ca7e4d90.chunk.js",
+    "main.js.map": "/my-app/static/js/main.ca7e4d90.chunk.js.map",
+    "runtime~main.js": "/my-app/static/js/runtime~main.21a9b63e.js",
+    "runtime~main.js.map": "/my-app/static/js/runtime~main.21a9b63e.js.map",
+    "static/js/2.a5d5b8eb.chunk.js": "/my-app/static/js/2.a5d5b8eb.chunk.js",
+    "static/js/2.a5d5b8eb.chunk.js.map": "/my-app/static/js/2.a5d5b8eb.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.49cd7b5eac648076cf9194908aa91f1f.js": "/my-app/precache-manifest.49cd7b5eac648076cf9194908aa91f1f.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.f55cc74d.chunk.css.map": "/my-app/static/css/main.f55cc74d.chunk.css.map",
+    "static/media/banner.png": "/my-app/static/media/banner.88724b30.png",
+    "static/media/figma.svg": "/my-app/static/media/figma.8e1c6c38.svg",
+    "static/media/plugin.png": "/my-app/static/media/plugin.35135295.png"
+  }
+}
