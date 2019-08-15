@@ -97,7 +97,7 @@ function App() {
   console.log('after clidk: ', path)
   return (
     <>
-      <Router basename='/project1'>
+      <Router basename='/1st-learning-project'>
         <NavStyled>
 
           <Link to={path} style={{ textDecoration: 'none' }}>
