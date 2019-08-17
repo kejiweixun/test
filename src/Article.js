@@ -6,7 +6,7 @@ font-size: 1.5rem;
 padding: 0 4rem;
 line-height: 1.7;
 flex: 2;
-min-width: 55rem;
+min-width: 35rem;
 
 > p{
   margin-top: 3rem;

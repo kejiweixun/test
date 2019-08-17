@@ -97,7 +97,7 @@ function App() {
   console.log('after clidk: ', path)
   return (
     <>
-      <Router basename='/1st-learning-project'>
+      <Router basename='/project1'>
         <NavStyled>
 
           <Link to={path} style={{ textDecoration: 'none' }}>
@@ -114,6 +114,7 @@ function App() {
         <Switch>
           <Route exact path='/' component={HeaderAndMain} />
           <Route path='/p' component={SecondPage} />
+          <Route path='/index.html' component={HeaderAndMain} />
         </Switch>
 
       </Router>

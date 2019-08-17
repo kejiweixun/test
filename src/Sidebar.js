@@ -8,6 +8,7 @@ import facebook from './facebook.jpg';
 const SidebarStyled = styled.div`
 flex: 1;
 min-width: 30rem;
+padding: 4rem;
 `
 
 

@@ -2,7 +2,7 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://kejiweixun.github.io/1st-learning-project",
+  "homepage": "https://kejiweixun.github.io/1st-learning-project",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
@@ -13,8 +13,8 @@
     "styled-components": "^4.3.2"
   },
   "scripts": {
-  "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

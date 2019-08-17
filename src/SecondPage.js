@@ -163,12 +163,12 @@ function AllPlugin(props) {
 
 const CreatePluginStyled = styled.div`
 color: #262626;
+margin: 6rem 0;
 padding-left: 2rem;
 line-height: 3rem;
 >p:nth-child(1){
   font-size: 2.5rem;
   font-weight: 700;
-  
 }
 `
 
