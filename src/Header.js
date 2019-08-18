@@ -12,6 +12,9 @@ padding: 0 5rem;
 margin: 0 auto;
 max-width: 110rem;
 padding-top: 1rem;
+@media(max-width: 644px){
+  display: none;
+}
 `
 
 function Header(){

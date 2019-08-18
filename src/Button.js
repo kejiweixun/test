@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 const ButtonStyled = styled.button.attrs(props => ({
-  color: props.color || 'red',
+  color: props.color || 'none',
   hoverColor: props.hoverColor || 'black',
   hoverBorder: props.hoverBorder || '1px solid white',
   border: props.border || 'none',

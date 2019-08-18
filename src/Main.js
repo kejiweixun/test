@@ -10,7 +10,6 @@ margin: 0 auto;
 >div{
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
 }
 `
 
@@ -20,7 +19,7 @@ function Main(props){
       <Banner />
       <div>
       <Article />
-      <Sidebar />
+      <Sidebar/>
       </div>
     </MainStyled>
   )

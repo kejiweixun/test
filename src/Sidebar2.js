@@ -6,9 +6,7 @@ import twitter from './twitter.jpg';
 import facebook from './facebook.jpg';
 
 const SidebarStyled = styled.div`
-flex: 1;
-margin-left: 2rem;
-@media(max-width:644px){
+@media(min-width:645px){
   display: none
 }
 `
@@ -17,7 +15,7 @@ margin-left: 2rem;
 const titleStyle = {
   fontSize: '1.5rem',
   fontWeight: '600',
-
+  margin: '0',
 }
 
 function SubSidebar(props) {
@@ -32,6 +30,7 @@ function SubSidebar(props) {
 const ListStyled = styled.ul`
 list-style-type: none;
 padding-left: 0;
+margin: 0;
 `
 const imgStyle = {
   display: 'block',
@@ -42,7 +41,7 @@ const imgStyle = {
 const liStyle = {
   display: 'flex',
   alignItems: 'center',
-  lineHeight: '3rem'
+  lineHeight: '1rem'
 }
 
 function Share(props) {
@@ -71,13 +70,11 @@ function Share(props) {
 
 function Sidebar(props) {
   return (
-    <SidebarStyled >
+    <SidebarStyled>
       <SubSidebar titleContent='Publisher' link='https://www.figma.com/c/user/391355592849403117' linkContent='unfold.co' />
       <br />
       <br />
-      <br />
       <SubSidebar titleContent='Support contact' link='hello@unfold.co' linkContent='hello@unfold.co' />
-      <br />
       <br />
       <br />
 <Share />
