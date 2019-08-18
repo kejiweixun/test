@@ -1,4 +1,4 @@
-自学前端, 亲自写项目可能是最好的学习方法, 随便找了[一个页面](https://www.figma.com/c/plugin/741472919529947576/SkewDat)模仿着[还原出来](https://kejiweixun.github.io/1st-learning-project/), 在电脑看还不错, 但手机端元素有点错乱, 下一步学习解决这个问题的知识.
+自学前端, 亲自写项目可能是最好的学习方法, 随便找了[一个页面](https://www.figma.com/c/plugin/741472919529947576/SkewDat)模仿着[还原出来](https://kejiweixun.github.io/1st-learning-project/).
 
 ## 所用知识
 
