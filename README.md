@@ -22,7 +22,7 @@
 
 关于这个问题的详细描述和多种解决方案, 可以在 [stack overflow](https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writing-manually) 查看.
 
-部署到 github 可以通过 Hash History 解决这个问题, 缺点是 url 有点丑, 多了一个 `#` 符号, 例如 `http://example.com/#/about`.
+部署到 github 可以通过 Hash Router 解决这个问题, 缺点是 url 有点丑, 多了一个 `#` 符号, 例如 `http://example.com/#/about`.
 
 部署到 nodejs 服务器的话, 有几种解决方案, 比较简单的是定义一个新 route, 当用户访问 `http://example.com/` 或 `http://example.com/about` 等等, 通通 response index.html. 我部署到腾讯云的版本就用了这种方法, 里面有一段这样的代码:
 ```
